@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GameMarketPlace</string>
+    <string name="title_activity_product_details">Game Details</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">The Call of Duty franchise is no stranger to mobile gaming, but the succinctly titled Call of Duty: Mobile is different. While many have already fought Call of Duty zombies on a phone and even used a Nintendo DS stylus to aim down sights in unambitious games designed for the limitations of their platforms, this new entry represents a concerted effort from Activision to make a mark on the notoriously difficult-to-crack and overcrowded mobile market –n
+
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
